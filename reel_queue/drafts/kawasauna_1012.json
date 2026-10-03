@@ -1,77 +1,77 @@
 {
-  "_note": "下書き。scheduler はこのファイルを読まない。たいがさんの公開OK後に items を ../queue.json へ移すと予約が有効になる。",
+  "_note": "下書き。scheduler はこのファイルを読まない。たいがさんの公開OK後に items を ../queue.json へ移すと予約が有効になる。 キャプションは台本v3/v4の形（1行目＝その日の0-3秒テロップ＋DM誘導）。",
   "items": [
     {
       "account": "nowsauna",
       "time": "2026-10-04T19:00:00+09:00",
       "video": "https://raw.githubusercontent.com/bombomber0513-dev/sns-event-images/main/reel_queue/videos/kawasauna1012_ato8.mp4",
-      "caption": "ひとり参加、大歓迎です。\n\n📅 10/12(月・祝) 1部10:00〜13:00／2部14:00〜17:00\n📍 ノサウナ ODAWARA（小田原・箱根外輪山の渓流）\n🚐 小田原駅から送迎付き\n💰 両部13,000円／片部8,000円（BBQ込）\n各部40名・先着順｜申込はプロフィールのリンクから\n#カワサウナ #テントサウナ #ナウサウナ #サウナ好きと繋がりたい #小田原",
+      "caption": "「つめたっ！！」\n詳細はプロフィールのチラシを見てね\n参加はDMで「カワサウナ」",
       "label": "カワサウナ10/12 あと8日",
-      "source_pc": "C:/sns/nowsauna_movie/04_完成/音声BGM版/ の「あと8日」の _読み上げBGM.mp4"
+      "source_pc": "C:/sns/nowsauna_movie/04_完成/音声BGM版/v5案/ のあと8日の _読み上げBGM.mp4（札＝ステッカー）"
     },
     {
       "account": "nowsauna",
       "time": "2026-10-05T19:00:00+09:00",
       "video": "https://raw.githubusercontent.com/bombomber0513-dev/sns-event-images/main/reel_queue/videos/kawasauna1012_ato7.mp4",
-      "caption": "1部だけ・2部だけもOK。片部の人は申込時に部を選んでください\n\n📅 10/12(月・祝) 1部10:00〜13:00／2部14:00〜17:00\n📍 ノサウナ ODAWARA（小田原・箱根外輪山の渓流）\n🚐 小田原駅から送迎付き\n💰 両部13,000円／片部8,000円（BBQ込）\n各部40名・先着順｜申込はプロフィールのリンクから\n#カワサウナ #テントサウナ #ナウサウナ #サウナ好きと繋がりたい #小田原",
+      "caption": "この顔になれます。\n詳細はプロフィールのチラシを見てね\n参加はDMで「カワサウナ」",
       "label": "カワサウナ10/12 あと7日",
-      "source_pc": "C:/sns/nowsauna_movie/04_完成/音声BGM版/ の「あと7日」の _読み上げBGM.mp4"
+      "source_pc": "C:/sns/nowsauna_movie/04_完成/音声BGM版/v5案/ のあと7日の _読み上げBGM.mp4（札＝ステッカー）"
     },
     {
       "account": "nowsauna",
       "time": "2026-10-06T19:00:00+09:00",
       "video": "https://raw.githubusercontent.com/bombomber0513-dev/sns-event-images/main/reel_queue/videos/kawasauna1012_ato6.mp4",
-      "caption": "熱波で上げて、川で下げる🔥➡️🏞\n\n📅 10/12(月・祝) 1部10:00〜13:00／2部14:00〜17:00\n📍 ノサウナ ODAWARA（小田原・箱根外輪山の渓流）\n🚐 小田原駅から送迎付き\n💰 両部13,000円／片部8,000円（BBQ込）\n各部40名・先着順｜申込はプロフィールのリンクから\n#カワサウナ #テントサウナ #ナウサウナ #サウナ好きと繋がりたい #小田原",
+      "caption": "このサウナ、水風呂がありません。\n詳細はプロフィールのチラシを見てね\n参加はDMで「カワサウナ」",
       "label": "カワサウナ10/12 あと6日",
-      "source_pc": "C:/sns/nowsauna_movie/04_完成/音声BGM版/ の「あと6日」の _読み上げBGM.mp4"
+      "source_pc": "C:/sns/nowsauna_movie/04_完成/音声BGM版/v5案/ のあと6日の _読み上げBGM.mp4（札＝ステッカー）"
     },
     {
       "account": "nowsauna",
       "time": "2026-10-07T19:00:00+09:00",
       "video": "https://raw.githubusercontent.com/bombomber0513-dev/sns-event-images/main/reel_queue/videos/kawasauna1012_ato5.mp4",
-      "caption": "保存しておくと当日ラクです📌\n\n📅 10/12(月・祝) 1部10:00〜13:00／2部14:00〜17:00\n📍 ノサウナ ODAWARA（小田原・箱根外輪山の渓流）\n🚐 小田原駅から送迎付き\n💰 両部13,000円／片部8,000円（BBQ込）\n各部40名・先着順｜申込はプロフィールのリンクから\n#カワサウナ #テントサウナ #ナウサウナ #サウナ好きと繋がりたい #小田原",
+      "caption": "POV：ととのい椅子からの景色\n詳細はプロフィールのチラシを見てね\n参加はDMで「カワサウナ」",
       "label": "カワサウナ10/12 あと5日",
-      "source_pc": "C:/sns/nowsauna_movie/04_完成/音声BGM版/ の「あと5日」の _読み上げBGM.mp4"
+      "source_pc": "C:/sns/nowsauna_movie/04_完成/音声BGM版/v5案/ のあと5日の _読み上げBGM.mp4（札＝ステッカー）"
     },
     {
       "account": "nowsauna",
       "time": "2026-10-08T19:00:00+09:00",
       "video": "https://raw.githubusercontent.com/bombomber0513-dev/sns-event-images/main/reel_queue/videos/kawasauna1012_ato4.mp4",
-      "caption": "協賛品、ちょっと見せます🎁\n\n📅 10/12(月・祝) 1部10:00〜13:00／2部14:00〜17:00\n📍 ノサウナ ODAWARA（小田原・箱根外輪山の渓流）\n🚐 小田原駅から送迎付き\n💰 両部13,000円／片部8,000円（BBQ込）\n各部40名・先着順｜申込はプロフィールのリンクから\n#カワサウナ #テントサウナ #ナウサウナ #サウナ好きと繋がりたい #小田原",
+      "caption": "川のサウナで、熱波。\n詳細はプロフィールのチラシを見てね\n参加はDMで「カワサウナ」",
       "label": "カワサウナ10/12 あと4日",
-      "source_pc": "C:/sns/nowsauna_movie/04_完成/音声BGM版/ の「あと4日」の _読み上げBGM.mp4"
+      "source_pc": "C:/sns/nowsauna_movie/04_完成/音声BGM版/v5案/ のあと4日の _読み上げBGM.mp4（札＝ステッカー）"
     },
     {
       "account": "nowsauna",
       "time": "2026-10-09T19:00:00+09:00",
       "video": "https://raw.githubusercontent.com/bombomber0513-dev/sns-event-images/main/reel_queue/videos/kawasauna1012_ato3.mp4",
-      "caption": "一緒に作る側、やってみませんか？\n\n📅 10/12(月・祝) 1部10:00〜13:00／2部14:00〜17:00\n📍 ノサウナ ODAWARA（小田原・箱根外輪山の渓流）\n🚐 小田原駅から送迎付き\n💰 両部13,000円／片部8,000円（BBQ込）\n各部40名・先着順｜申込はプロフィールのリンクから\n#カワサウナ #テントサウナ #ナウサウナ #サウナ好きと繋がりたい #小田原",
+      "caption": "ととのい方は、自由です。\n詳細はプロフィールのチラシを見てね\n参加はDMで「カワサウナ」",
       "label": "カワサウナ10/12 あと3日",
-      "source_pc": "C:/sns/nowsauna_movie/04_完成/音声BGM版/ の「あと3日」の _読み上げBGM.mp4"
+      "source_pc": "C:/sns/nowsauna_movie/04_完成/音声BGM版/v5案/ のあと3日の _読み上げBGM.mp4（札＝ステッカー）"
     },
     {
       "account": "nowsauna",
       "time": "2026-10-10T19:00:00+09:00",
       "video": "https://raw.githubusercontent.com/bombomber0513-dev/sns-event-images/main/reel_queue/videos/kawasauna1012_ato2.mp4",
-      "caption": "あさってです。\n\n📅 10/12(月・祝) 1部10:00〜13:00／2部14:00〜17:00\n📍 ノサウナ ODAWARA（小田原・箱根外輪山の渓流）\n🚐 小田原駅から送迎付き\n💰 両部13,000円／片部8,000円（BBQ込）\n各部40名・先着順｜申込はプロフィールのリンクから\n#カワサウナ #テントサウナ #ナウサウナ #サウナ好きと繋がりたい #小田原",
+      "caption": "サウナ好きの友達に、これ送って。\n詳細はプロフィールのチラシを見てね\n参加はDMで「カワサウナ」",
       "label": "カワサウナ10/12 あと2日",
-      "source_pc": "C:/sns/nowsauna_movie/04_完成/音声BGM版/ の「あと2日」の _読み上げBGM.mp4"
+      "source_pc": "C:/sns/nowsauna_movie/04_完成/音声BGM版/v5案/ のあと2日の _読み上げBGM.mp4（札＝ステッカー）"
     },
     {
       "account": "nowsauna",
       "time": "2026-10-11T19:00:00+09:00",
       "video": "https://raw.githubusercontent.com/bombomber0513-dev/sns-event-images/main/reel_queue/videos/kawasauna1012_ato1.mp4",
-      "caption": "明日、川で会いましょう。まだ間に合います\n\n📅 10/12(月・祝) 1部10:00〜13:00／2部14:00〜17:00\n📍 ノサウナ ODAWARA（小田原・箱根外輪山の渓流）\n🚐 小田原駅から送迎付き\n💰 両部13,000円／片部8,000円（BBQ込）\n各部40名・先着順｜申込はプロフィールのリンクから\n#カワサウナ #テントサウナ #ナウサウナ #サウナ好きと繋がりたい #小田原",
+      "caption": "明日、川で焼きます。\n詳細はプロフィールのチラシを見てね\n参加はDMで「カワサウナ」",
       "label": "カワサウナ10/12 あと1日",
-      "source_pc": "C:/sns/nowsauna_movie/04_完成/音声BGM版/ の「あと1日」の _読み上げBGM.mp4"
+      "source_pc": "C:/sns/nowsauna_movie/04_完成/音声BGM版/v5案/ のあと1日の _読み上げBGM.mp4（札＝ステッカー）"
     },
     {
       "account": "nowsauna",
       "time": "2026-10-12T07:00:00+09:00",
       "video": "https://raw.githubusercontent.com/bombomber0513-dev/sns-event-images/main/reel_queue/videos/kawasauna1012_today.mp4",
-      "caption": "今日です。小田原で待ってます☀\n\n📅 10/12(月・祝) 1部10:00〜13:00／2部14:00〜17:00\n📍 ノサウナ ODAWARA（小田原・箱根外輪山の渓流）\n🚐 小田原駅から送迎付き\n💰 両部13,000円／片部8,000円（BBQ込）\n各部40名・先着順｜申込はプロフィールのリンクから\n#カワサウナ #テントサウナ #ナウサウナ #サウナ好きと繋がりたい #小田原",
+      "caption": "今日です。\n詳細はプロフィールのチラシを見てね\n参加はDMで「カワサウナ」",
       "label": "カワサウナ10/12 当日",
-      "source_pc": "C:/sns/nowsauna_movie/04_完成/音声BGM版/ の「当日」の _読み上げBGM.mp4"
+      "source_pc": "C:/sns/nowsauna_movie/04_完成/音声BGM版/v5案/ の当日の _読み上げBGM.mp4（札＝ステッカー）"
     }
   ]
 }
